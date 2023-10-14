@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(28, 27, 93);
+    padding: 15px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    background-color: rgb(255, 136, 0);
+    border-radius: 10px;
+    margin: 15px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+footer {
+    background-color: rgb(13, 20, 76);
+    color: white;
+    margin: 4px;
+    padding: 10px;
+}
+
+.tra {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 19px;
+}
